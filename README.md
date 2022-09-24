@@ -1,4 +1,5 @@
-- 👀 Pacman Softworks Archive
+# 👀 Pacman Softworks Archive
+- Bot: https://github.com/ThePacmanArchives/bot
 
 <!---
 ThePacmanArchives/ThePacmanArchives is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
